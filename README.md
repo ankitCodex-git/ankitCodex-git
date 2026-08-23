@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a student in High School and A Programmer with experience in Web development and in Python and C++ 
+Hey name Ankit, First year at University and A Programmer with experience in Web development and in Python and C++ 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ankit_codex/)
